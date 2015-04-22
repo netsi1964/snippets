@@ -8,4 +8,4 @@ Sten Hougaard, [@netsi1964](http://twitter.com/netsi1964).
 
 ## imagesSideBySideInSVG.js
 This is a cute litle javascript which will generate a SVG containing grouped by image height, the images on current website.
-You can see [Example output on codepen](http://codepen.io/netsi1964/pen/cc1973442ee943ba2e8d8547de07ba16). 
+You can see [Example output on codepen](http://codepen.io/netsi1964/pen/OVJmxa/). 
