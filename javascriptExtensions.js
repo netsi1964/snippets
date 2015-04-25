@@ -1,3 +1,7 @@
+/**
+ * Will convert a AM|PM hour:minut string to a 24 hours string
+ * @returns {String} A 24 hour ":" seperated string, f.i. 22:45
+ */
 String.prototype.to24hour = function() {
   function fixed(integer) {
     return ((parseInt(integer,10)<10) ? "0" : "") + integer;
